@@ -1,0 +1,128 @@
+@media only screen and ( max-width:1200px) {
+    .home_banner_area .box_1620 {
+        min-height: 550px;
+    }
+    .home_banner_area .banner_inner {
+        min-height: 500px;
+    }
+    .home_banner_area .banner_inner .banner_content .media .d-flex {
+        padding-right: 23px;
+        width: 500px;
+    }
+    .home_banner_area .banner_inner .banner_content .media .d-flex img{
+        width:100%;;
+    }
+    .box.p-4 {
+        padding:1.5rem 0rem !important;
+    }
+}
+@media only screen and ( max-width:991px) {
+    .home_banner_area .box_1620 {
+        bottom: -33px;
+    }
+    .container, .container-md, .container-sm {
+        max-width: 96%;
+    }
+    .p_120 {
+        padding-top: 50px;
+    }
+}
+@media only screen and ( max-width:768px) {
+    .Banner-content02 {
+        top: 43%;
+        left: 10%;
+        padding: 10px 30px;
+    }
+    .media {
+        display: block;
+    }
+    .home_banner_area .banner_inner .banner_content .media .d-flex {
+        padding-right: 0;
+        width: 100%;
+        padding-left: 5px;
+    }
+    .home_banner_area .banner_inner .banner_content .media .media-body {
+        margin-top: 50px;
+    }
+    .ftco-section.ftco-hireme {
+        padding-bottom: 2em;
+    }
+    .ftco-section {
+        padding-top: 2em;
+    }
+    .footer-padding {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .footer-area .footer-top .footer-top-cap span a {
+        font-size: 30px;
+    }    
+}
+@media only screen and ( max-width:575px) {
+    .footer-area .footer-top .footer-top-cap span a {
+        font-size: 18px;
+    }
+    .resume-wrap .position {
+        font-size: 13px;
+        font-weight: 700;
+        color: #000000;
+    }
+    .Banner-content02 {
+        top: 0;
+        left: 0;
+        padding: 10px 10px;
+        right: 0;
+        width:88%;
+    }
+    .logo {
+        width: 59px;
+    }
+    .Banner-content02 h1{
+        font-size:18px;
+    }
+    .Banner-content02 .mt-4{
+        margin-top:.5rem!important;
+    }
+    .home_banner_area .box_1620 {
+        padding: 15px;
+    }
+    .personal_text .basic_info li a {
+        padding-left: 29px;
+    }
+    .categories-area {
+        padding-top: 4rem;
+    }
+    .section-tittle h2 {
+        font-size: 23px;
+    }
+    .mb-70 {
+        margin-bottom: 25px;
+    }
+    .categories-area .single-cat {
+        padding: 15px 15px;
+    }
+    .categories-area .single-cat .cat-icon span {
+        width: 80px;
+        height: 80px;
+        line-height: 80px;
+        margin-bottom: 20px;
+    }
+    .mb-50 {
+        margin-bottom: 30px;
+    }
+    .page {
+        padding-top: 4em;
+    }    
+    .ftco-hireme h2 {
+        font-size: 24px;
+    }
+    p {
+        font-size: 13px;
+    }
+    .heading-section h2 {
+        font-size: 25px;
+    }
+    .container-fluid.px-md-0{
+        padding-right:0px;
+    }
+}
